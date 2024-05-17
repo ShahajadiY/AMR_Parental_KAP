@@ -1,4 +1,4 @@
-# Factors ontributing to antibiotic misuse among parents of school-going children in Dhaka City, Bangladesh
+# Factors contributing to antibiotic misuse among parents of school-going children in Dhaka City, Bangladesh
 
 ## Description
 Antimicrobial resistance (AMR) is a pressing global health concern, especially in resource-constrained
