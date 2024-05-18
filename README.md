@@ -1,4 +1,4 @@
-# Factors ontributing to antibiotic misuse among parents of school-going children in Dhaka City, Bangladesh
+# Factors contributing to antibiotic misuse among parents of school-going children in Dhaka City, Bangladesh
 
 ## Description
 Antimicrobial resistance (AMR) is a pressing global health concern, especially in resource-constrained
@@ -15,3 +15,13 @@ and family type signifcantly infuenced KAP. These fndings emphasize the importan
 education and awareness initiatives to enhance knowledge and responsible antibiotic use among
 parents, contributing to global eforts against antibiotic resistance. The government should enforce
 laws and regulations regarding the misuse of antibiotics.
+#Git
+install.packages("usethis")
+library(usethis)
+
+use_git_config(user.name = "Shahajadi Yasmin", user.email = "shahajadi61218@gmail.com")
+
+# Personal access token for HTTPS
+create_github_token()
+
+gitcreds::gitcreds_set()
