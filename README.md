@@ -15,6 +15,7 @@ and family type signifcantly infuenced KAP. These fndings emphasize the importan
 education and awareness initiatives to enhance knowledge and responsible antibiotic use among
 parents, contributing to global eforts against antibiotic resistance. The government should enforce
 laws and regulations regarding the misuse of antibiotics.
+<<<<<<< HEAD
 #Git
 install.packages("usethis")
 library(usethis)
@@ -25,3 +26,5 @@ use_git_config(user.name = "Shahajadi Yasmin", user.email = "shahajadi61218@gmai
 create_github_token()
 
 gitcreds::gitcreds_set()
+=======
+>>>>>>> b0e27bccd337e4a4f2a68f485144995fce247dc3
